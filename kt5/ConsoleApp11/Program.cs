@@ -6,7 +6,6 @@ using Serilog;
 using Serilog.Context;
 using Serilog.Events;
 
-// Класс для представления задачи (без изменений)
 public class TaskItem
 {
     public int Id { get; set; }
