@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQAj4yqBJ88=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UwU\\source\\repos\\ConsoleApp11\\ConsoleApp11\\ConsoleApp11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UwU\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\UwU\\.nuget\\packages\\serilog.formatting.compact\\3.0.0\\serilog.formatting.compact.3.0.0.nupkg.sha512",
+    "C:\\Users\\UwU\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\UwU\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
